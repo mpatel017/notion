@@ -166,8 +166,9 @@
   </script>
 </div>
 <!-- TradingView Widget END -->
-<!-- Custom JS for widget styling BEGIN -->
+    <!-- Custom JS for widget styling BEGIN -->
     <script src="app.js"></script>
     <!-- Custom JS END -->
   </body>
 </html>
+
