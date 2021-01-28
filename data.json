@@ -1,0 +1,68 @@
+{
+  "width": "100%",
+  "height": "100%",
+  "symbolsGroups": [
+    {
+      "name": "All",
+      "originalName": "Indices",
+      "symbols": [
+        {
+          "name": "NASDAQ:AAPL",
+          "displayName": "Apple Inc."
+        },
+        {
+          "name": "AMEX:ARKK",
+          "displayName": "ARK Innovation ETF"
+        },
+        {
+          "name": "NASDAQ:FB",
+          "displayName": "Facebook, Inc."
+        },
+        {
+          "name": "NYSE:RTX",
+          "displayName": "Raytheon Technologies Corporation"
+        },
+        {
+          "name": "NASDAQ:TSLA",
+          "displayName": "Tesla, Inc."
+        }
+      ]
+    },
+    {
+      "name": "Stocks",
+      "originalName": "Commodities",
+      "symbols": [
+        {
+          "name": "NASDAQ:AAPL",
+          "displayName": "Apple Inc."
+        },
+        {
+          "name": "NASDAQ:FB",
+          "displayName": "Facebook, Inc."
+        },
+        {
+          "name": "NYSE:RTX",
+          "displayName": "Raytheon Technologies Corporation"
+        },
+        {
+          "name": "NASDAQ:TSLA",
+          "displayName": "Tesla, Inc."
+        }
+      ]
+    },
+    {
+      "name": "ETFs",
+      "originalName": "Bonds",
+      "symbols": [
+        {
+          "name": "AMEX:ARKK",
+          "displayName": "ARK Innovation ETF"
+        }
+      ]
+    }
+  ],
+  "showSymbolLogo": true,
+  "colorTheme": "dark",
+  "isTransparent": true,
+  "locale": "en"
+}
